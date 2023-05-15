@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DAMUC2_Daniel_Venturi</string>
+    <string name="Text_clave" />
+    <string name="Text_clave_">clave</string>
+    <string name="text_ExamendeAdmisión2023">formulario</string>
+    <string name="text_ExamendeAdmisión2023_">Examen de Admisión 2023</string>
+    <string name="text_formulario">formulario</string>
+    <string name="text_apellidos_nombres">apellidos y nombres</string>
+    <string name="text_correo">correo electronico</string>
+</resources>
